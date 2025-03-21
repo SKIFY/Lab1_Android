@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BirthdayCardAndWordScramble</string>
+    <string name="balloons_image_description">Balloons Image</string>
+    <string name="cake_image_description">Cake Image</string>
+    <string name="confetti_image_description">Confetti Image</string>
+</resources>
